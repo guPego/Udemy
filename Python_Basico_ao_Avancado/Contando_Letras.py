@@ -1,3 +1,5 @@
+# Exercicio com intuito de contar a quantidade de letras de uma frase.
+
 frase = 'Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.'
 
 i = 0
